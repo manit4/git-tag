@@ -4,4 +4,10 @@ class A {
 
 		System.out.println("Hello everyone");
 	}
+
+	public void add(int value1, int value2) {
+
+		System.out.println("The result is "+(value1+value2));
+
+	}
 }
